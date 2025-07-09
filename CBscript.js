@@ -42,7 +42,7 @@ const faqs = [
   },
   {
     question: "Who is the CEO of FlipBasket?",
-    answer: "The CEO of FlipBasket is Ujjwal Chauhan."
+    answer: "The CEO of FlipBasket is Khushi Swarna."
   },
 ];
 
